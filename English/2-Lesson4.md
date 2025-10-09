@@ -72,7 +72,13 @@ We are glad <u>**to hear** the news.</u>
 I was sad <u>**to read** the letter from her.</u>
 私は彼女からの手紙を読んで悲しくなった。
 
+ちぇっくいんをおわったらほんかいますか
+ほんもってます
+ぱすぽーともってる？ちぇっくいんにひつよう
+メール
+べいかーさんがまってる
+
 ## 4-3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzM2Mjk3M119
+eyJoaXN0b3J5IjpbMTU3MzY2MzUzMSwtMTk3MzYyOTczXX0=
 -->
