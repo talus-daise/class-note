@@ -136,7 +136,6 @@ Do you have any baggage **to check**?
 
 より、?で check the baggage は意味が通るから、形容詞用法。
 
-
 Do I have time **to buy a drink** before the plane leaves?
 
 のとき、
@@ -149,6 +148,7 @@ to buy a drink は形容詞用法。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTc4ODMwNywyMDQ5MzU2MjMwLDEzNj
-EyMTA4NTgsMTU3NjU5ODg4MSwtMTk3MzYyOTczXX0=
+eyJoaXN0b3J5IjpbNzc2MDMzMjc5LC04NTU3ODgzMDcsMjA0OT
+M1NjIzMCwxMzYxMjEwODU4LDE1NzY1OTg4ODEsLTE5NzM2Mjk3
+M119
 -->
