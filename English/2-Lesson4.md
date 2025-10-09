@@ -109,8 +109,8 @@ every, some, any, noにそれぞれ-one, -body, -thingをつけると代名詞�
 | everyone / everybody | everything | すべての人（もの） |
 | someone / somebody | something | 誰（何）か |
 | anyone / anybody | anything | ＜肯定文＞誰（何）でも<br>＜否定文＞誰（何）も（〜ない）<br>＜疑問文＞誰か（何か） |
-| no one / nobody | nothing | 誰（何）も〜ない
+| no one / nobody | nothing | 誰（何）も〜ない |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzA3MjA1NzAsMTU3NjU5ODg4MSwtMT
-k3MzYyOTczXX0=
+eyJoaXN0b3J5IjpbMTM2MTIxMDg1OCwxNTc2NTk4ODgxLC0xOT
+czNjI5NzNdfQ==
 -->
