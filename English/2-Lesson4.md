@@ -86,14 +86,16 @@ I was sad <u>**to read** the letter from her.</u>
 2. I need a guidebook to help me.
 3. I didn't have enough time to prepare for the trip.
 
-ｑ
+動詞で名詞の説明をする。
 
 ### Key Point 2
 4. I want something to eat.
 5. I want something cold to drink.
 6. I have nothing special to do today.
 7. Mary needs someone to make dinner for her.
+
+-thing, -oneなどの単語を修飾することができる。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4NjI3OTMxLDE1NzY1OTg4ODEsLTE5Nz
-M2Mjk3M119
+eyJoaXN0b3J5IjpbMTkwMTEwNTg0NiwxNTc2NTk4ODgxLC0xOT
+czNjI5NzNdfQ==
 -->
