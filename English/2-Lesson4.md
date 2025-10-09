@@ -111,9 +111,16 @@ every, some, any, noにそれぞれ-one, -body, -thingをつけると代名詞�
 | anyone / anybody | anything | ＜肯定文＞誰（何）でも<br>＜否定文＞誰（何）も（〜ない）<br>＜疑問文＞誰か（何か） |
 | no one / nobody | nothing | 誰（何）も〜ない |
 
-And can I have your passport <>**to check** your name?
+And can I have your passport <u>**to check** your name?
 
+V O → O to V
+
+open the door → the door to open
+
+? → your passport to check your name
+
+となるから、check your name your passport という S V O
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDk2MTIzLDIwNDkzNTYyMzAsMTM2MT
-IxMDg1OCwxNTc2NTk4ODgxLC0xOTczNjI5NzNdfQ==
+eyJoaXN0b3J5IjpbMTg1NzM1MTQ3NiwyMDQ5MzU2MjMwLDEzNj
+EyMTA4NTgsMTU3NjU5ODg4MSwtMTk3MzYyOTczXX0=
 -->
