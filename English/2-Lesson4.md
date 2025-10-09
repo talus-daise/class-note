@@ -132,7 +132,7 @@ Do you have any baggage **to check**?
 |V O |→ |O to V|
 |----|-|-|
 |open the door | → | the door to open
-|? |→ |baggage to check|
+|? |→ |the baggage to check|
 
 より、?で check the baggage は意味が通るから、形容詞用法。
 
@@ -143,8 +143,10 @@ Do I have time to buy a drink before the plane leaves?
 
 before the plane leaves?
 
-の部分は、未来のことを表しているが、時制の
+の部分は、未来のことを表しているが、時制の副詞節なので、助動詞。
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTU3MDA0NTQsMjA0OTM1NjIzMCwxMz
-YxMjEwODU4LDE1NzY1OTg4ODEsLTE5NzM2Mjk3M119
+eyJoaXN0b3J5IjpbNzc2NjQ2NDA4LDIwNDkzNTYyMzAsMTM2MT
+IxMDg1OCwxNTc2NTk4ODgxLC0xOTczNjI5NzNdfQ==
 -->
