@@ -80,11 +80,18 @@ I was sad <u>**to read** the letter from her.</u>
 ニューヨークで良いたのしみを
 
 ## 4-3
+日本語は助詞があるから基本的に前に形容詞を
 ### Key Point 1
 1. There are many good places to see in Japan.
 2. I need a guidebook to help me.
-3. I didn't have enough
+3. I didn't have enough time to prepare for the trip.
+
+### Key Point 2
+4. I want something to eat.
+5. I want something cold to drink.
+6. I have nothing special to do today.
+7. Mary needs someone to make dinner for her.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxMjA0Mjk5LDE1NzY1OTg4ODEsLTE5Nz
-M2Mjk3M119
+eyJoaXN0b3J5IjpbMTY5NDE4NjYzMCwxNTc2NTk4ODgxLC0xOT
+czNjI5NzNdfQ==
 -->
