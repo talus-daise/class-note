@@ -137,7 +137,7 @@ Do you have any baggage **to check**?
 より、?で check the baggage は意味が通るから、形容詞用法。
 
 
-Do I have time to buy a drink before the plane leaves?
+Do I have time **to buy a drink** before the plane leaves?
 
 のとき、
 
@@ -145,8 +145,10 @@ before the plane leaves?
 
 の部分は、未来のことを表しているが、時制の副詞節なので、助動詞。
 
+to buy a drink は形容詞用法。
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2NjQ2NDA4LDIwNDkzNTYyMzAsMTM2MT
-IxMDg1OCwxNTc2NTk4ODgxLC0xOTczNjI5NzNdfQ==
+eyJoaXN0b3J5IjpbLTg1NTc4ODMwNywyMDQ5MzU2MjMwLDEzNj
+EyMTA4NTgsMTU3NjU5ODg4MSwtMTk3MzYyOTczXX0=
 -->
