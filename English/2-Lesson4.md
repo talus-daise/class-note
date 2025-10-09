@@ -113,14 +113,28 @@ every, some, any, noにそれぞれ-one, -body, -thingをつけると代名詞�
 
 And can I have your passport <u>**to check** your name?
 
+形容詞用法のとき、
+
 V O → O to V
 
 open the door → the door to open
 
 ? → your passport to check your name
 
-となるから、check your name your passport という S V O
+となるから、check your name your passport という S V O O の言い方はできないため、
+これは形容詞ではなく、副詞用法。
+
+逆に、
+
+Do you have any baggage **to check**?
+
+のとき、
+
+V O → O to V
+? → baggage to check
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzM1MTQ3NiwyMDQ5MzU2MjMwLDEzNj
+eyJoaXN0b3J5IjpbMTE5MjI0NzcwNiwyMDQ5MzU2MjMwLDEzNj
 EyMTA4NTgsMTU3NjU5ODg4MSwtMTk3MzYyOTczXX0=
 -->
