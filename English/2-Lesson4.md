@@ -80,6 +80,11 @@ I was sad <u>**to read** the letter from her.</u>
 ニューヨークで良いたのしみを
 
 ## 4-3
+### Key Point 1
+1. There are many good places to see in Japan.
+2. I need a guidebook to help me.
+3. I didn't have enough
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjU5ODg4MSwtMTk3MzYyOTczXX0=
+eyJoaXN0b3J5IjpbOTkxMjA0Mjk5LDE1NzY1OTg4ODEsLTE5Nz
+M2Mjk3M119
 -->
