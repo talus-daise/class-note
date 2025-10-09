@@ -95,7 +95,10 @@ I was sad <u>**to read** the letter from her.</u>
 7. Mary needs someone to make dinner for her.
 
 -thing, -oneなどの単語を修飾することができる。
+
+### -one, -body, -thing
+every, some, any, noにそれぞれ-one, -body, -thingをつけると代名詞になる。（不定代名詞）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTEwNTg0NiwxNTc2NTk4ODgxLC0xOT
-czNjI5NzNdfQ==
+eyJoaXN0b3J5IjpbNjUxMTQzNDgzLDE1NzY1OTg4ODEsLTE5Nz
+M2Mjk3M119
 -->
