@@ -77,8 +77,9 @@ I was sad <u>**to read** the letter from her.</u>
 ぱすぽーともってる？ちぇっくいんにひつよう
 メール
 べいかーさんがまってる
+ニューヨークで良いたのしみを
 
 ## 4-3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzY2MzUzMSwtMTk3MzYyOTczXX0=
+eyJoaXN0b3J5IjpbMTU3NjU5ODg4MSwtMTk3MzYyOTczXX0=
 -->
