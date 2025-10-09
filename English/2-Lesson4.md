@@ -95,8 +95,12 @@ I was sad <u>**to read** the letter from her.</u>
 7. Mary needs someone to make dinner for her.
 
 -thing, -oneなどの単語を修飾することができる。
-形容詞とTo不定詞のけいようしよ
 
+形容詞とTo不定詞の形容詞用法では、形容詞を先に持ってくる。
+
+例）I want something <u>**cold**</u> <u>**to drink**.</u>
+
+nothing special　特に何もない
 ### -one, -body, -thing
 every, some, any, noにそれぞれ-one, -body, -thingをつけると代名詞になる。（**不定代名詞**）
 形容詞が不定代名詞を修飾するときは、形容詞を不定代名詞の後ろに置く。
@@ -107,6 +111,6 @@ every, some, any, noにそれぞれ-one, -body, -thingをつけると代名詞�
 | anyone / anybody | anything | ＜肯定文＞誰（何）でも<br>＜否定文＞誰（何）も（〜ない）<br>＜疑問文＞誰か（何か） |
 | no one / nobody | nothing | 誰（何）も〜ない
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwMDc2MTI2LDE1NzY1OTg4ODEsLTE5Nz
-M2Mjk3M119
+eyJoaXN0b3J5IjpbLTE0MzA3MjA1NzAsMTU3NjU5ODg4MSwtMT
+k3MzYyOTczXX0=
 -->
