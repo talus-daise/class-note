@@ -115,11 +115,10 @@ And can I have your passport <u>**to check** your name?
 
 形容詞用法のとき、
 
-V O → O to V
-
-open the door → the door to open
-
-? → your passport to check your name
+| V O | → | O to V |
+|-----|----|--------|
+|open the door| → |the door to open |
+|?| → your passport to check your name
 
 となるから、check your name your passport という S V O O の言い方はできないため、
 これは形容詞ではなく、副詞用法。
@@ -133,8 +132,8 @@ Do you have any baggage **to check**?
 V O → O to V
 ? → baggage to check
 
-
+より、check the baggageは意味が通るから、形容詞用法。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjI0NzcwNiwyMDQ5MzU2MjMwLDEzNj
+eyJoaXN0b3J5IjpbMTM1NDY5OTc1OCwyMDQ5MzU2MjMwLDEzNj
 EyMTA4NTgsMTU3NjU5ODg4MSwtMTk3MzYyOTczXX0=
 -->
