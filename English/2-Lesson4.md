@@ -101,8 +101,11 @@ every, some, any, noにそれぞれ-one, -body, -thingをつけると代名詞�
 形容詞が不定代名詞を修飾するときは、形容詞を不定代名詞の後ろに置く。
 | 人 | もの | 意味 |
 |----|-----|-----|
-|everyone / everybody | everything | すべての人（もの） |
+| everyone / everybody | everything | すべての人（もの） |
+| someone / somebody | something | 誰（何）か |
+| anyone / anybody | anything | 誰（何）でも、誰（なに）も（ない）、誰か（何か） |
+| no one /
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA5NDQ3NjgsMTU3NjU5ODg4MSwtMT
-k3MzYyOTczXX0=
+eyJoaXN0b3J5IjpbNTk1NTU0ODM5LDE1NzY1OTg4ODEsLTE5Nz
+M2Mjk3M119
 -->
