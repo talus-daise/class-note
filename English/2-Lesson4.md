@@ -95,6 +95,7 @@ I was sad <u>**to read** the letter from her.</u>
 7. Mary needs someone to make dinner for her.
 
 -thing, -oneなどの単語を修飾することができる。
+形容詞とTo不定詞のけいようしよ
 
 ### -one, -body, -thing
 every, some, any, noにそれぞれ-one, -body, -thingをつけると代名詞になる。（**不定代名詞**）
@@ -103,9 +104,9 @@ every, some, any, noにそれぞれ-one, -body, -thingをつけると代名詞�
 |----|-----|-----|
 | everyone / everybody | everything | すべての人（もの） |
 | someone / somebody | something | 誰（何）か |
-| anyone / anybody | anything | 誰（何）でも、誰（なに）も（ない）、誰か（何か） |
-| no one /
+| anyone / anybody | anything | ＜肯定文＞誰（何）でも<br>＜否定文＞誰（何）も（〜ない）<br>＜疑問文＞誰か（何か） |
+| no one / nobody | nothing | 誰（何）も〜ない
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1NTU0ODM5LDE1NzY1OTg4ODEsLTE5Nz
+eyJoaXN0b3J5IjpbNzYwMDc2MTI2LDE1NzY1OTg4ODEsLTE5Nz
 M2Mjk3M119
 -->
