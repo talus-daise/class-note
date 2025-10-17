@@ -142,13 +142,13 @@ Do I have time **to buy a drink** before the plane leaves?
 
 before the plane leaves?
 
-の部分は、未来のことを表しているが、時制の副詞節なので、助動詞は。
+の部分は、未来のことを表しているが、時制の副詞節なので、助動詞は使わない。
 
 to buy a drink は形容詞用法。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTAxMTEzOCw3NzYwMzMyNzksLTg1NT
-c4ODMwNywyMDQ5MzU2MjMwLDEzNjEyMTA4NTgsMTU3NjU5ODg4
-MSwtMTk3MzYyOTczXX0=
+eyJoaXN0b3J5IjpbODM2NDM3OTY0LDc3NjAzMzI3OSwtODU1Nz
+g4MzA3LDIwNDkzNTYyMzAsMTM2MTIxMDg1OCwxNTc2NTk4ODgx
+LC0xOTczNjI5NzNdfQ==
 -->
