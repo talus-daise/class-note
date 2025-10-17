@@ -145,15 +145,8 @@ before the plane leaves?
 の部分は、未来のことを表しているが、時制の副詞節なので、助動詞は使わない。
 
 to buy a drink は形容詞用法。
-
-$$
-\frac{3}{2} \times \frac{x+2}{3 \frac{3}{2}}
-$$
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY4NzAyNzEsODM2NDM3OTY0LDc3Nj
-AzMzI3OSwtODU1Nzg4MzA3LDIwNDkzNTYyMzAsMTM2MTIxMDg1
-OCwxNTc2NTk4ODgxLC0xOTczNjI5NzNdfQ==
+eyJoaXN0b3J5IjpbOTY5ODQ4NTYwLDgzNjQzNzk2NCw3NzYwMz
+MyNzksLTg1NTc4ODMwNywyMDQ5MzU2MjMwLDEzNjEyMTA4NTgs
+MTU3NjU5ODg4MSwtMTk3MzYyOTczXX0=
 -->
