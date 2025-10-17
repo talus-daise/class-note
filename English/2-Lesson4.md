@@ -146,9 +146,14 @@ before the plane leaves?
 
 to buy a drink は形容詞用法。
 
-
+$$
+\frac{3}{2} \times \frac{x+2}{3 \frac{3}{2}}
+$$
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2NDM3OTY0LDc3NjAzMzI3OSwtODU1Nz
-g4MzA3LDIwNDkzNTYyMzAsMTM2MTIxMDg1OCwxNTc2NTk4ODgx
-LC0xOTczNjI5NzNdfQ==
+eyJoaXN0b3J5IjpbLTEyMjY4NzAyNzEsODM2NDM3OTY0LDc3Nj
+AzMzI3OSwtODU1Nzg4MzA3LDIwNDkzNTYyMzAsMTM2MTIxMDg1
+OCwxNTc2NTk4ODgxLC0xOTczNjI5NzNdfQ==
 -->
