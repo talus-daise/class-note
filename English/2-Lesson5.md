@@ -22,8 +22,9 @@ enjoy, stop, finish は ~ing の動名詞しか使えない。
 5. Chris enjoys **studying** math.
 6. The teacher finished **talking** and we started the class.
 7. Patrick stopped **writing** and put his pen on he desk.
-8. After the test, he left he classroom without **saying**
+8. After the test, he left the classroom without **saying** a word.
+9. Don't worry about **making** mistakes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTU5MTU1NiwtMzkyMjE2NDYxLDQzMj
-kzNTU2MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEzNzYwMzU5NDgsLTM5MjIxNjQ2MSw0Mz
+I5MzU1NjAsNzMwOTk4MTE2XX0=
 -->
