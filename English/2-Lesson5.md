@@ -17,7 +17,9 @@ like, finish, begin, give up, mind, enjoy, stop, start, practice は
 enjoy, stop, finish は ~ing の動名詞しか使えない。
 
 前置詞のあとは動名詞しか使えない。
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MjIxNjQ2MSw0MzI5MzU1NjAsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE5NzIwMzc2ODEsLTM5MjIxNjQ2MSw0Mz
+I5MzU1NjAsNzMwOTk4MTE2XX0=
 -->
