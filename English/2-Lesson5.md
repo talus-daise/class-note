@@ -9,7 +9,12 @@ like, finish, begin, give up, mind, enjoy, stop, start, practice は
 1. **Swimming** is fun.
 2. **Getting** daily exercise is a good habit.
 3. My father's favorite pastime is **playing** golf.
-4. My mother
+4. My mother's job is **teaching** tennis.
+
+動名詞も主語になれる。（動名詞の主語は3人称単数）
+**Playing** is fun.
+
+enjoy, stop, finish は ~ing の動名詞しか使えない
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDE5NDYzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNzIzOTY4NTg2LDczMDk5ODExNl19
 -->
