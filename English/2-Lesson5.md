@@ -14,7 +14,7 @@ like, finish, begin, give up, mind, enjoy, stop, start, practice は
 動名詞も主語になれる。（動名詞の主語は3人称単数）
 **Playing** is fun.
 
-enjoy, stop, finish は ~ing の動名詞しか使えない
+enjoy, stop, finish は ~ing の動名詞しか使えない。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzOTY4NTg2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNDMyOTM1NTYwLDczMDk5ODExNl19
 -->
