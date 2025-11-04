@@ -15,6 +15,9 @@ like, finish, begin, give up, mind, enjoy, stop, start, practice は
 **Playing** is fun.
 
 enjoy, stop, finish は ~ing の動名詞しか使えない。
+
+前置詞のあとは
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyOTM1NTYwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMzgzMjI2NjQ4LDQzMjkzNTU2MCw3MzA5OT
+gxMTZdfQ==
 -->
