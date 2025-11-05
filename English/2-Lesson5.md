@@ -55,9 +55,13 @@ toはこれからやること(未来)
 食べてみた　もう食べた
 
 stopは動名詞のみを目的語にとり、不定詞をつけると、副詞用法となる。
-They stopped talking.
-They stoppedto talk.
+They stopped talking. (彼らは喋るのをやめた)
+They stopped to talk. (彼らは喋るために止まった)
+
+| 熟語 | 意味 |
+| - | - |
+| be good at ~ing | …するのがとｋ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODMyMzI0MSwtMTM3NjAzNTk0OCwtMz
-kyMjE2NDYxLDQzMjkzNTU2MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIwOTQwOTYxMjcsLTEzNzYwMzU5NDgsLT
+M5MjIxNjQ2MSw0MzI5MzU1NjAsNzMwOTk4MTE2XX0=
 -->
