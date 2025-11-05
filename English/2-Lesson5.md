@@ -60,8 +60,15 @@ They stopped to talk. (彼らは喋るために止まった)
 
 | 熟語 | 意味 |
 | - | - |
-| be good at ~ing | …するのがとｋ
+| be good at ~ing | …するのが得意 |
+| be interested in ~ing | …することに興味がある |
+| be tired of ~ing | …するのに飽きている |
+| look forward to ~ing | …するのを楽しみにする |
+| How about ~ing? | …するのはどうですか？ |
+| Would you mind ~ing? | …していただけませんか？ |
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQwOTYxMjcsLTEzNzYwMzU5NDgsLT
-M5MjIxNjQ2MSw0MzI5MzU1NjAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIxNjA4NjM5NCwtMTM3NjAzNTk0OCwtMz
+kyMjE2NDYxLDQzMjkzNTU2MCw3MzA5OTgxMTZdfQ==
 -->
