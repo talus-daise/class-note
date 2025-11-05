@@ -24,7 +24,14 @@ enjoy, stop, finish は ~ing の動名詞しか使えない。
 7. Patrick stopped **writing** and put his pen on he desk.
 8. After the test, he left the classroom without **saying** a word.
 9. Don't worry about **making** mistakes.
+
+## 5-2
+### Key Point 1
+1. We **began eating[to eat]** lunch at twelve o'clock. 
+2. My father **enjoyed watching** rugby games on TV after lunch.
+3. I **want to eat** fried noodles today.
+4. Tom doesn't reme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzYwMzU5NDgsLTM5MjIxNjQ2MSw0Mz
-I5MzU1NjAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTA0MjI5NTM1MSwtMTM3NjAzNTk0OCwtMz
+kyMjE2NDYxLDQzMjkzNTU2MCw3MzA5OTgxMTZdfQ==
 -->
