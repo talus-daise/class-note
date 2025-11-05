@@ -33,8 +33,8 @@ enjoy, stop, finish は ~ing の動名詞しか使えない。
 4. Tom doesn't **remember meeting** Mary in the cafeteria before.
 5. Please **remember to meet** me in the cafeteria at noon tomorrow.
 
-動詞によって
+動詞によって不定詞を使うか、動名詞を使うかが変わる。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTY1NjI1MywtMTM3NjAzNTk0OCwtMz
+eyJoaXN0b3J5IjpbLTk4NzMyMjgzNCwtMTM3NjAzNTk0OCwtMz
 kyMjE2NDYxLDQzMjkzNTU2MCw3MzA5OTgxMTZdfQ==
 -->
