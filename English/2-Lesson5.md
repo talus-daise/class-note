@@ -67,8 +67,11 @@ They stopped to talk. (彼らは喋るために止まった)
 | How about ~ing? | …するのはどうですか？ |
 | Would you mind ~ing? | …していただけませんか？ |
 
+## Read
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjA4NjM5NCwtMTM3NjAzNTk0OCwtMz
-kyMjE2NDYxLDQzMjkzNTU2MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMzY0NTAxMTcyLC0yMTYwODYzOTQsLTEzNz
+YwMzU5NDgsLTM5MjIxNjQ2MSw0MzI5MzU1NjAsNzMwOTk4MTE2
+XX0=
 -->
