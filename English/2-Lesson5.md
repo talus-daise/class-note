@@ -48,9 +48,16 @@ I started making dinner.
 I tried to eat this food. (この食べ物を食べようとした)
 I tried eating this food. (試しにこの食べ物を食べてみた)
 
-toはこれからやること(未来
-~ingは過去
+toはこれからやること(未来)
+食べようとした　これから食べる
+
+~ingはこれまでにやったこと(過去)
+食べてみた　もう食べた
+
+stopは動名詞のみを目的語にとり、不定詞をつけると、副詞用法となる。
+They stopped talking.
+They stoppedto talk.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzU0MTQ5NCwtMTM3NjAzNTk0OCwtMz
+eyJoaXN0b3J5IjpbLTgwODMyMzI0MSwtMTM3NjAzNTk0OCwtMz
 kyMjE2NDYxLDQzMjkzNTU2MCw3MzA5OTgxMTZdfQ==
 -->
