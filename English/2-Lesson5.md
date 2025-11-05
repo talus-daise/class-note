@@ -34,7 +34,15 @@ enjoy, stop, finish は ~ing の動名詞しか使えない。
 5. Please **remember to meet** me in the cafeteria at noon tomorrow.
 
 動詞によって不定詞を使うか、動名詞を使うかが変わる。
+①　動名詞だけが目的語になる
+I enjoyed playing piano.
+②　不定詞だけが目的語になる
+I want to be a math teacher.
+③　どちらも目的語になる
+I started to make dinner.
+I w
+④　動名詞と不定詞で意味が違う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzMyMjgzNCwtMTM3NjAzNTk0OCwtMz
+eyJoaXN0b3J5IjpbMTg5Mzk0Njg1NCwtMTM3NjAzNTk0OCwtMz
 kyMjE2NDYxLDQzMjkzNTU2MCw3MzA5OTgxMTZdfQ==
 -->
