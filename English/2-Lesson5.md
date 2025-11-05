@@ -30,8 +30,11 @@ enjoy, stop, finish は ~ing の動名詞しか使えない。
 1. We **began eating[to eat]** lunch at twelve o'clock. 
 2. My father **enjoyed watching** rugby games on TV after lunch.
 3. I **want to eat** fried noodles today.
-4. Tom doesn't reme
+4. Tom doesn't **remember meeting** Mary in the cafeteria before.
+5. Please **remember to meet** me in the cafeteria at noon tomorrow.
+
+動詞によって
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjI5NTM1MSwtMTM3NjAzNTk0OCwtMz
+eyJoaXN0b3J5IjpbMTk4OTY1NjI1MywtMTM3NjAzNTk0OCwtMz
 kyMjE2NDYxLDQzMjkzNTU2MCw3MzA5OTgxMTZdfQ==
 -->
