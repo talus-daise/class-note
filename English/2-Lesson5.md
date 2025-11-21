@@ -41,22 +41,24 @@ I enjoyed playing piano.
 I want to be a math teacher.
 
 ③　どちらも目的語になる
-I started to make dinner.
-I started making dinner.
+- I started to make dinner.
+- I started making dinner.
 
 ④　動名詞と不定詞で意味が違う
-I tried to eat this food. (この食べ物を食べようとした)
-I tried eating this food. (試しにこの食べ物を食べてみた)
+- I tried to eat this food. (この食べ物を食べようとした)
+- I tried eating this food. (試しにこの食べ物を食べてみた)
 
 toはこれからやること(未来)
+
 食べようとした　これから食べる
 
 ~ingはこれまでにやったこと(過去)
+
 食べてみた　もう食べた
 
 stopは動名詞のみを目的語にとり、不定詞をつけると、副詞用法となる。
-They stopped talking. (彼らは喋るのをやめた)
-They stopped to talk. (彼らは喋るために止まった)
+- They stopped talking. (彼らは喋るのをやめた)
+- They stopped to talk. (彼らは喋るために止まった)
 
 | 熟語 | 意味 |
 | - | - |
@@ -71,7 +73,7 @@ They stopped to talk. (彼らは喋るために止まった)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0NTAxMTcyLC0yMTYwODYzOTQsLTEzNz
-YwMzU5NDgsLTM5MjIxNjQ2MSw0MzI5MzU1NjAsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbLTU5NTQ3OTgzMCwzNjQ1MDExNzIsLTIxNj
+A4NjM5NCwtMTM3NjAzNTk0OCwtMzkyMjE2NDYxLDQzMjkzNTU2
+MCw3MzA5OTgxMTZdfQ==
 -->
