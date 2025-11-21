@@ -56,12 +56,13 @@
 　　[By whom were instant noodles invented?]
 
 肯定文から考えるとわかりやすい。
-| | | | | | | |
-|-|-|-|-|-|-|-|
-|||Instant noodles | were | invented | by | Ando Momofuku| |
-||Were | instant noodles | | invented | by | Ando Momofuku |? |
-|Who| were | instant noodles | | invented | by || ? |
+| | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|
+||||Instant noodles | were | invented | by | Ando Momofuku| . |
+|||Were | instant noodles | | invented | by | Ando Momofuku | ? |
+||Who| were | instant noodles | | invented | by || ? |
+|By | whom | were | instant noodles | | invented|||?|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzMyMTU0OSwtNTcxNTM1OTk5LDQ5Nz
-gxODgxMF19
+eyJoaXN0b3J5IjpbNjM0NDI5MjM1LC01NzE1MzU5OTksNDk3OD
+E4ODEwXX0=
 -->
