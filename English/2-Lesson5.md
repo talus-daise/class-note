@@ -1,8 +1,10 @@
-
+# Lesson 5
 
 ## 動名詞
+
 動詞と名詞の両方の性質を持つ。
-like, finish, begin, give up, mind, enjoy, stop, start, practice は
+
+like, finish, begin, give up, mind, enjoy, stop, start, practice は動名詞を用いる。
 ## 5-1
 
 ### Key Point 1
@@ -12,6 +14,7 @@ like, finish, begin, give up, mind, enjoy, stop, start, practice は
 4. My mother's job is **teaching** tennis.
 
 動名詞も主語になれる。（動名詞の主語は3人称単数）
+
 **Playing** is fun.
 
 enjoy, stop, finish は ~ing の動名詞しか使えない。
@@ -35,10 +38,10 @@ enjoy, stop, finish は ~ing の動名詞しか使えない。
 
 動詞によって不定詞を使うか、動名詞を使うかが変わる。
 ①　動名詞だけが目的語になる
-I enjoyed playing piano.
+- I enjoyed playing piano.
 
 ②　不定詞だけが目的語になる
-I want to be a math teacher.
+- I want to be a math teacher.
 
 ③　どちらも目的語になる
 - I started to make dinner.
@@ -73,7 +76,7 @@ stopは動名詞のみを目的語にとり、不定詞をつけると、副詞�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTQ3OTgzMCwzNjQ1MDExNzIsLTIxNj
-A4NjM5NCwtMTM3NjAzNTk0OCwtMzkyMjE2NDYxLDQzMjkzNTU2
-MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTY0NjY0MjU1LDM2NDUwMTE3MiwtMjE2MD
+g2Mzk0LC0xMzc2MDM1OTQ4LC0zOTIyMTY0NjEsNDMyOTM1NTYw
+LDczMDk5ODExNl19
 -->
