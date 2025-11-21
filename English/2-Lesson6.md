@@ -29,7 +29,13 @@ Paper cups **are used** in many coffee shops.
 
 ### Key Point 3
 6. English **is not spoken** in this area.
-7. **Are** Japanese comic
+7. **Are** Japanese comic book **read** in New York? --- Yes, they are. / No, they aren't.
+8. These e-books **can be downloaded** for free.
+
+## 6-2
+### Key Point 1
+1. **What was stolen** from Mary's locker? --- Her porse was.
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODc4MDIwMSw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTExOTA4MjczMzksNDk3ODE4ODEwXX0=
 -->
