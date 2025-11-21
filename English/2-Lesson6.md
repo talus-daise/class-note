@@ -18,9 +18,14 @@ Paper cups **are used** in many coffee shops.
 |-|-|-|-|
 | ABC | eat | ate | eaten |
 | ABB | buy | bought | bought |
-| ABA | come | came 
+| ABA | come | came | come |
+| AAA | cut | cut | cut
+
+### Key Point 2
+4. These beautiful photos of shooting starts **were taken by Chris.**
+5. Pluto **was d**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTU0NjgxMyw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMTcxMDUxMzg0OCw0OTc4MTg4MTBdfQ==
 -->
