@@ -34,8 +34,11 @@ Paper cups **are used** in many coffee shops.
 
 ## 6-2
 ### Key Point 1
-1. **What was stolen** from Mary's locker? --- Her porse was.
-2. 
+1. **What was stolen** from Mary's locker? --- Her purse was.
+2. **Where was** Mary's purse **found?** --- It was found in the restroom.
+3. **Who was told** about the problem first? --- The shop clerk was.
+
+ぎもんぶ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA4MjczMzksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbODkxNzAwODMyLDQ5NzgxODgxMF19
 -->
