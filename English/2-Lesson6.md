@@ -5,13 +5,13 @@
 2. Paper cups **are used** in many coffee shops.
 3. Few paper cups **were recycled** last year.
 
-受動態。
-「〜が…される」
-いわゆる受け身
+受動態。「〜が…される」→いわゆる受け身
 
 受動態は be動詞 + 過去分詞 で表す。
-They use paper cups in many coffee shops.
-Paper cups **are used** in many coffee shops.
+
+- They use paper cups in many coffee shops.
+
+- Paper cups **are used** in many coffee shops.
 
 不規則変化の過去分詞は4パターンある。
 | パターン | 原型 | 過去形 | 過去分詞 |
@@ -38,7 +38,11 @@ Paper cups **are used** in many coffee shops.
 2. **Where was** Mary's purse **found?** --- It was found in the restroom.
 3. **Who was told** about the problem first? --- The shop clerk was.
 
-ぎもんぶ
+疑問詞 + 疑問文の形
+
+主語になれる疑問詞(What, Who)は注意
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxNzAwODMyLDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTU3MTUzNTk5OSw0OTc4MTg4MTBdfQ==
 -->
