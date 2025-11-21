@@ -42,10 +42,14 @@
 
 主語になれる疑問詞(What, Who)は注意
 
+①はWhatを主語として扱っている。
+
 ②Mary's purse was found in the restroom.
+
 →疑問文にすると、 Was Mary's purse found in the restroom?
-→疑問詞をつけると、 What was Mary's purse found
+
+→疑問詞をつけると、 What was Mary's purse found?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2NTk0MDgyLC01NzE1MzU5OTksNDk3OD
+eyJoaXN0b3J5IjpbMzEzNjkzODQzLC01NzE1MzU5OTksNDk3OD
 E4ODEwXX0=
 -->
