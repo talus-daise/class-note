@@ -49,7 +49,11 @@
 →疑問文にすると、 Was Mary's purse found in the restroom?
 
 →疑問詞をつけると、 What was Mary's purse found?
+
+誰によって…されるのかと尋ねるときは
+
+例）**Who were** instant noodles **invented by?**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzNjkzODQzLC01NzE1MzU5OTksNDk3OD
-E4ODEwXX0=
+eyJoaXN0b3J5IjpbLTE0MDgyMDE3MzIsLTU3MTUzNTk5OSw0OT
+c4MTg4MTBdfQ==
 -->
