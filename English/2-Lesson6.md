@@ -13,7 +13,14 @@
 They use paper cups in many coffee shops.
 Paper cups **are used** in many coffee shops.
 
-不規則変化の過去分詞は4ぱた
+不規則変化の過去分詞は4パターンある。
+| パターン | 原型 | 過去形 | 過去分詞 |
+|-|-|-|-|
+| ABC | eat | ate | eaten |
+| ABB | buy | bought | bought |
+| ABA | come | came 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDMxMDE5NCw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTMwMTU0NjgxMyw0OTc4MTg4MTBdfQ==
 -->
