@@ -52,9 +52,9 @@
 
 誰によって…されるのかと尋ねるときは
 
-例）**Who were** instant noodles **invented by?** --- They were invented by Ando Momofuku.
+例）**Who were** instant noodles **invented by?** --- They(instant noodles) were invented by Ando Momofuku.
 　　[By whom were instant noodles invented?]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzU2ODE0MSwtNTcxNTM1OTk5LDQ5Nz
+eyJoaXN0b3J5IjpbLTI1NjQ2MjIwNywtNTcxNTM1OTk5LDQ5Nz
 gxODgxMF19
 -->
