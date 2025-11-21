@@ -58,11 +58,17 @@
 肯定文から考えるとわかりやすい。
 | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|
-||||Instant noodles | were | invented | by | Ando Momofuku| . |
-|||Were | instant noodles | | invented | by | Ando Momofuku | ? |
-||Who| were | instant noodles | | invented | by || ? |
-|By | whom | were | instant noodles | | invented|||?|
+| | | | Instant noodles | were | invented | by | Ando Momofuku | . |
+| | | Were | instant noodles | | invented | by | Ando Momofuku | ? |
+| | Who | were | instant noodles | | invented | by | | ? |
+| By | whom | were | instant noodles | | invented | | | ? |
+
+### Key Point 2
+4. The hall **was filled with** people.
+5. The singer **is known to** people all over the world.
+6. We **were surprised at** the beautiful voice of the singer.
+7. Mary and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0NDI5MjM1LC01NzE1MzU5OTksNDk3OD
-E4ODEwXX0=
+eyJoaXN0b3J5IjpbLTk2MzIzMTg3NiwtNTcxNTM1OTk5LDQ5Nz
+gxODgxMF19
 -->
