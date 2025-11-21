@@ -23,9 +23,13 @@ Paper cups **are used** in many coffee shops.
 
 ### Key Point 2
 4. These beautiful photos of shooting starts **were taken by Chris.**
-5. Pluto **was d**
+5. Pluto **was discovered by an American astronomer.**
 
+受動態では by + 行為者 で行為者を明示することができる。
 
+### Key Point 3
+6. English **is not spoken** in this area.
+7. **Are** Japanese comic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDUxMzg0OCw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMTQzODc4MDIwMSw0OTc4MTg4MTBdfQ==
 -->
