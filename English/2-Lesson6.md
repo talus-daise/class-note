@@ -85,8 +85,18 @@
 | be | interested | in | ~
 | be | tired | of | ~
 
+A be made of B
+
+A be made from B
+
+AはBから作られる
+
+This table is made of wood.
+
+1886 1885の予定だった　無理
+ピースに分けて組み立てた
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE3MTAyMDcsLTU3MTUzNTk5OSw0OT
-c4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMTk0MTk3ODg4MSwtNTcxNTM1OTk5LDQ5Nz
+gxODgxMF19
 -->
