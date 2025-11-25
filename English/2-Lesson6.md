@@ -93,10 +93,10 @@ AはBから作られる
 
 This table is made of wood.
 
-1886 1885の予定だった　無理
+1886 1885に到着した　無理
 ピースに分けて組み立てた
 銅の薄いカバー
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODU4NTk4OSwtNTcxNTM1OTk5LDQ5Nz
+eyJoaXN0b3J5IjpbLTg0NTQ1NDE4NiwtNTcxNTM1OTk5LDQ5Nz
 gxODgxMF19
 -->
