@@ -81,7 +81,12 @@
 | be | surprised | at | ~
 | be | satisfied | with | ~
 | be | disappointed | at[in] | ~
+| be | pleased | with | ~
+| be | interested | in | ~
+| be | tired | of | ~
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg2NDQwOTEsLTU3MTUzNTk5OSw0OT
+eyJoaXN0b3J5IjpbLTEwNzE3MTAyMDcsLTU3MTUzNTk5OSw0OT
 c4MTg4MTBdfQ==
 -->
