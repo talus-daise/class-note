@@ -101,8 +101,15 @@ This table is made of wood.
 
 ### Key Point 1
 1. The gold medal **was given to** Ann by the school. Ann **was given** the gold medal the school.
-2. A Christmas gift **was sent to** Ted by his uncle. Ted **was sent** a Christmas g
+2. A Christmas gift **was sent to** Ted by his uncle. Ted **was sent** a Christmas gift by is uncle.
+3. These coolies **were made for** us by Beth.
+
+①
+| | | | |
+|-|-|-|-|
+|The school| gave |Ann |the gold medal.|
+| 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDQ4NTYxOCwtODQ1NDU0MTg2LC01Nz
-E1MzU5OTksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMzQ5MjI1NzgxLC04NDU0NTQxODYsLTU3MT
+UzNTk5OSw0OTc4MTg4MTBdfQ==
 -->
