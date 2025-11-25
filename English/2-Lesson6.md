@@ -96,7 +96,13 @@ This table is made of wood.
 1886 1885に到着した　無理
 ピースに分けて組み立てた
 銅の薄いカバー
+
+## 6-3
+
+### Key Point 1
+1. The gold medal **was given to** Ann by the school. Ann **was given** the gold medal the school.
+2. A Christmas gift **was sent to** Ted by his uncle. Ted **was sent** a Christmas g
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTQ1NDE4NiwtNTcxNTM1OTk5LDQ5Nz
-gxODgxMF19
+eyJoaXN0b3J5IjpbMTcyMDQ4NTYxOCwtODQ1NDU0MTg2LC01Nz
+E1MzU5OTksNDk3ODE4ODEwXX0=
 -->
