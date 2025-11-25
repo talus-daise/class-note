@@ -112,11 +112,17 @@ This table is made of wood.
 | The gold medal | was given to | Ann | | by the school.
 
 made, cook, find, chooseなどの物、人の順になる動詞は物を主語にする事が多い。
-||||||
-|-|-|-|-|-|
-|Beth | made | us | these cookies.|
-|These cookies | was made for | us || by Beth.
+|||||||
+|-|-|-|-|-|-|
+|○|Beth | made | us | these cookies.|
+|○|These cookies | was made for | us || by Beth.
+|× |We | were made | |these cookies | by Beth.
+
+### Key Point 2
+4. My mother **was named** Christine by my grandmother.
+5. At school, my mother **was called** Chris by her friends.
+6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjEzODQxNiwtODQ1NDU0MTg2LC01Nz
+eyJoaXN0b3J5IjpbLTg2ODg2MjgwNywtODQ1NDU0MTg2LC01Nz
 E1MzU5OTksNDk3ODE4ODEwXX0=
 -->
