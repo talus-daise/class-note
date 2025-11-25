@@ -111,13 +111,15 @@ This table is made of wood.
 | Ann | was given | | the gold medal | by the school.
 | The gold medal | was given to | Ann | | by the school.
 
-made, cook, find, chooseなどの物、人の順になる動詞は物を主語にする事が多い。
+made, cook, find, chooseなどの物 for 人になる動詞は物を主語にする事が多い。
 |||||||
 |-|-|-|-|-|-|
 |○|Beth | made | us | these cookies.|
 |○|These cookies | was made for | us || by Beth.
 |× |We | were made | |these cookies | by Beth.
 
+上から
+ベスは私達に
 
 ### Key Point 2
 4. My mother **was named** Christine by my grandmother.
@@ -130,6 +132,6 @@ made, cook, find, chooseなどの物、人の順になる動詞は物を主語�
 
 SVOCは目的語を主語に取る。補語は主語に取らない。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5NTAzMywtODQ1NDU0MTg2LC01NzE1Mz
-U5OTksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbNDg5NTcxNjc4LC04NDU0NTQxODYsLTU3MT
+UzNTk5OSw0OTc4MTg4MTBdfQ==
 -->
