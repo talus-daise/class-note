@@ -79,7 +79,9 @@
 | be | known | to | ~ 
 | be | caught | to | ~
 | be | surprised | at | ~
+| be | satisfied | with | ~
+| be | disappointed | at[in] | ~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzIwNTM4MjMsLTU3MTUzNTk5OSw0OT
+eyJoaXN0b3J5IjpbLTExMTg2NDQwOTEsLTU3MTUzNTk5OSw0OT
 c4MTg4MTBdfQ==
 -->
