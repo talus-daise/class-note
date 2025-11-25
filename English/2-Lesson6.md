@@ -67,8 +67,13 @@
 4. The hall **was filled with** people.
 5. The singer **is known to** people all over the world.
 6. We **were surprised at** the beautiful voice of the singer.
-7. Mary and 
+7. Mary and I **were pleased with** the concert.
+8. We **were caught in** the rain on our way home.
+
+受動態の熟語シリーズ
+
+| be | 動詞 | 前置詞 | ~ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzIzMTg3NiwtNTcxNTM1OTk5LDQ5Nz
+eyJoaXN0b3J5IjpbLTkxODEyNDQzOSwtNTcxNTM1OTk5LDQ5Nz
 gxODgxMF19
 -->
