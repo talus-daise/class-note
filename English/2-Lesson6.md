@@ -118,11 +118,18 @@ made, cook, find, chooseなどの物、人の順になる動詞は物を主語�
 |○|These cookies | was made for | us || by Beth.
 |× |We | were made | |these cookies | by Beth.
 
+
 ### Key Point 2
 4. My mother **was named** Christine by my grandmother.
 5. At school, my mother **was called** Chris by her friends.
-6. 
+
+||||||
+|-|-|-|-|-|
+|My grandmother | named|my mother|Christine.
+|My mother | was named | |Christine|by my grandmother.|
+
+SVOCは目的語を主語に取る。補語は主語に取らない。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODg2MjgwNywtODQ1NDU0MTg2LC01Nz
-E1MzU5OTksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbNzY5NTAzMywtODQ1NDU0MTg2LC01NzE1Mz
+U5OTksNDk3ODE4ODEwXX0=
 -->
