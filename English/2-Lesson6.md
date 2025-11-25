@@ -73,7 +73,13 @@
 受動態の熟語シリーズ
 
 | be | 動詞 | 前置詞 | ~ |
+|----|-------|----------|---|
+| be | covered | with | ~
+| be | filled | with | ~
+| be | known | to | ~ 
+| be | caught | to | ~
+| be | surprised | at | ~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODEyNDQzOSwtNTcxNTM1OTk5LDQ5Nz
-gxODgxMF19
+eyJoaXN0b3J5IjpbLTE1MzIwNTM4MjMsLTU3MTUzNTk5OSw0OT
+c4MTg4MTBdfQ==
 -->
