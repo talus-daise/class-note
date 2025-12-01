@@ -119,7 +119,9 @@ made, cook, find, chooseなどの物 for 人になる動詞は物を主語にす
 |× |We | were made | |these cookies | by Beth.
 
 上から
-ベスは私達に
+ベスは私達にこれらのクッキーを作った。
+これらのクッキーは私達のためにベスに作られた。
+私達はクッキーをベスに作られた。　？？？
 
 ### Key Point 2
 4. My mother **was named** Christine by my grandmother.
@@ -131,7 +133,17 @@ made, cook, find, chooseなどの物 for 人になる動詞は物を主語にす
 |My mother | was named | |Christine|by my grandmother.|
 
 SVOCは目的語を主語に取る。補語は主語に取らない。
+
+これらは写真
+ガイド
+レディーリバティー
+驚いた
+アメリカから来ていないこと
+19世紀にフランス
+緑色ではなく銅で覆われている
+100ステップ？
+景色最高
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5NTcxNjc4LC04NDU0NTQxODYsLTU3MT
-UzNTk5OSw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTMxMjk4NzExMCw0ODk1NzE2NzgsLTg0NT
+Q1NDE4NiwtNTcxNTM1OTk5LDQ5NzgxODgxMF19
 -->
