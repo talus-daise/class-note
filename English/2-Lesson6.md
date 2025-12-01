@@ -139,11 +139,12 @@ SVOCは目的語を主語に取る。補語は主語に取らない。
 レディーリバティー
 驚いた
 アメリカから来ていないこと
-19世紀にフランス
+19世紀にフランスからもらった
 緑色ではなく銅で覆われている
-100ステップ？
+何百もの階段
 景色最高
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjk4NzExMCw0ODk1NzE2NzgsLTg0NT
-Q1NDE4NiwtNTcxNTM1OTk5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTIwNDI3MzY1NjYsLTMxMjk4NzExMCw0OD
+k1NzE2NzgsLTg0NTQ1NDE4NiwtNTcxNTM1OTk5LDQ5NzgxODgx
+MF19
 -->
