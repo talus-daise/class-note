@@ -112,6 +112,7 @@ This table is made of wood.
 | The gold medal | was given to | Ann | | by the school.
 
 made, cook, find, chooseなどの物 for 人になる動詞は物を主語にする事が多い。
+<style color="yellow">The school</color>
 |||||||
 |-|-|-|-|-|-|
 |○|Beth | made | us | these cookies.|
@@ -144,7 +145,7 @@ SVOCは目的語を主語に取る。補語は主語に取らない。
 何百もの階段
 景色最高
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI3MzY1NjYsLTMxMjk4NzExMCw0OD
-k1NzE2NzgsLTg0NTQ1NDE4NiwtNTcxNTM1OTk5LDQ5NzgxODgx
-MF19
+eyJoaXN0b3J5IjpbMTI0NzcyMzU4LC0yMDQyNzM2NTY2LC0zMT
+I5ODcxMTAsNDg5NTcxNjc4LC04NDU0NTQxODYsLTU3MTUzNTk5
+OSw0OTc4MTg4MTBdfQ==
 -->
