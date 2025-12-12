@@ -19,7 +19,15 @@
 
 **過去形**
 
+例）Jack **left** home for school at seven yesterday.
 
+ジャックは昨日の７時に学校へ行った。（現在には関係ない）
+
+**過去分詞**
+
+例）Jack **has** just **left** for school. ()
+
+ジャックは学校へ出発した。（よって今は家にいない）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Njk2OTM0OCw5Nzc1MTgxMTBdfQ==
+eyJoaXN0b3J5IjpbMTczMjQxMDY5NSw5Nzc1MTgxMTBdfQ==
 -->
