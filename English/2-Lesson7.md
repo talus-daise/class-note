@@ -43,7 +43,10 @@
 |-|-|-|
 |haveのあとに置くもの | just | ちょうど…したところだ
 || already | すでに…したところだ
-||| 
+||| すでに…してしまった
+|文末に置くもの | now | 今や…だ。|
+|||もう…してしまった。
+||yet | 《疑問文》もう…したのｄ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTA3MDY1OCw5Nzc1MTgxMTBdfQ==
+eyJoaXN0b3J5IjpbMTYxODI3NTg3NSw5Nzc1MTgxMTBdfQ==
 -->
