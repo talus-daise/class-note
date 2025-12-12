@@ -43,11 +43,13 @@
 |-|-|-|
 |haveのあとに置くもの | just |ちょうど…したところだ
 || already | すでに…したところだ
-||| すでに…してしまった
-|文末に置くもの | now | 《肯定》今や…だ。|
-|||《否定》もう…してしまった。
+||| もう…してしまった
+|文末に置くもの | now | 今や…だ。|
+|||もう…してしまった。
 ||yet | 《疑問》もう…したのですか？
 ||| 《否定》まだ…していない。
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjkzMzk3Myw5Nzc1MTgxMTBdfQ==
+eyJoaXN0b3J5IjpbLTI3NzIyNzc4OSw5Nzc1MTgxMTBdfQ==
 -->
