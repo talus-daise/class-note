@@ -41,12 +41,13 @@
 
 ||単語|意味|
 |-|-|-|
-|haveのあとに置くもの | just | ちょうど…したところだ
+|haveのあとに置くもの | just |ちょうど…したところだ
 || already | すでに…したところだ
 ||| すでに…してしまった
-|文末に置くもの | now | 今や…だ。|
-|||もう…してしまった。
-||yet | 《疑問文》もう…したのｄ
+|文末に置くもの | now | 《肯定》今や…だ。|
+|||《否定》もう…してしまった。
+||yet | 《疑問》もう…したのですか？
+||| 《否定》まだ…していない。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODI3NTg3NSw5Nzc1MTgxMTBdfQ==
+eyJoaXN0b3J5IjpbMTAyNjkzMzk3Myw5Nzc1MTgxMTBdfQ==
 -->
