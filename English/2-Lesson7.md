@@ -37,7 +37,13 @@
 
 現在完了の否定はhaveにnotつける。以上。
 現在完了の疑問はhaveを先頭にする。以上。
-完了・結果 を表すときはjust
+完了・結果 を表すときはjustやalready, yetなどがよく使われる。
+
+||単語|意味|
+|-|-|-|
+|haveのあとに置くもの | just | ちょうど…したところだ
+|| already | すでに…したところだ
+||| 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDMzNDE3NCw5Nzc1MTgxMTBdfQ==
+eyJoaXN0b3J5IjpbMTcyOTA3MDY1OCw5Nzc1MTgxMTBdfQ==
 -->
