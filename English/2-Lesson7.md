@@ -32,7 +32,8 @@
 ### Key Point 2
 
 4. I **have not written** my essay yet.
-5. My brother **has not found** his spma
+5. My brother **has not found** his smartphone yet. (-> He is still looking it.)
+6. **Have** you **found** your smartphome yet? --- Yes, I **have.** / No, I **haven't.** [No, **not yet.**]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1NjU3MDM1LDk3NzUxODExMF19
+eyJoaXN0b3J5IjpbLTEzOTM2ODk1Miw5Nzc1MTgxMTBdfQ==
 -->
