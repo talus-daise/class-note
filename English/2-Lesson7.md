@@ -54,8 +54,9 @@
 もうおなかいっぱい
 あっぷるぱいいる？
 おいしそう
-
+でざーとのぶなけてある
+皿ある？
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTgyNjQ0NjksLTI3NzIyNzc4OSw5Nz
-c1MTgxMTBdfQ==
+eyJoaXN0b3J5IjpbLTYwOTUzOTM2NSwtMjc3MjI3Nzg5LDk3Nz
+UxODExMF19
 -->
