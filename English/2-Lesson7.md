@@ -61,7 +61,10 @@ Would you like some more ~?
 ~をもう少しいかがですか？
 
 Please help yourself to ~.
+~をご自由にお取りください
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY4NDMzMzYsLTYwOTUzOTM2NSwtMj
-c3MjI3Nzg5LDk3NzUxODExMF19
+eyJoaXN0b3J5IjpbMjQzMTAxMDcyLC02MDk1MzkzNjUsLTI3Nz
+IyNzc4OSw5Nzc1MTgxMTBdfQ==
 -->
