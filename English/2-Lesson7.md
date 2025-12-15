@@ -49,7 +49,13 @@
 ||yet | 《疑問》もう…したのですか？
 ||| 《否定》まだ…していない。
 
+たべおわった
+ちがうさんどうぃっち？
+もうおなかいっぱい
+あっぷるぱいいる？
+おいしそう
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzIyNzc4OSw5Nzc1MTgxMTBdfQ==
+eyJoaXN0b3J5IjpbLTE2NTgyNjQ0NjksLTI3NzIyNzc4OSw5Nz
+c1MTgxMTBdfQ==
 -->
