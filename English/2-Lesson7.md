@@ -56,7 +56,12 @@
 おいしそう
 でざーとのぶなけてある
 皿ある？
+
+Would you like some more ~?
+~をもう少しいかがですか？
+
+Please help yourself to ~.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTUzOTM2NSwtMjc3MjI3Nzg5LDk3Nz
-UxODExMF19
+eyJoaXN0b3J5IjpbLTIwNDY4NDMzMzYsLTYwOTUzOTM2NSwtMj
+c3MjI3Nzg5LDk3NzUxODExMF19
 -->
