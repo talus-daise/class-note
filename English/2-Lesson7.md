@@ -63,8 +63,10 @@ Would you like some more ~?
 Please help yourself to ~.
 ~をご自由にお取りください
 
+finish enjoy stop mind giveup avoid
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzMTAxMDcyLC02MDk1MzkzNjUsLTI3Nz
-IyNzc4OSw5Nzc1MTgxMTBdfQ==
+eyJoaXN0b3J5IjpbLTE4MTMxNjIzMjMsMjQzMTAxMDcyLC02MD
+k1MzkzNjUsLTI3NzIyNzc4OSw5Nzc1MTgxMTBdfQ==
 -->
