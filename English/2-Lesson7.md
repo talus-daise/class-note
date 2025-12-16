@@ -66,8 +66,8 @@ Please help yourself to ~.
 finish enjoy stop mind giveup avoid
 
 a room　部屋
-room　
+room　空間
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjIwNDA5MywyNDMxMDEwNzIsLTYwOT
+eyJoaXN0b3J5IjpbLTUxMDI0MDA1NCwyNDMxMDEwNzIsLTYwOT
 UzOTM2NSwtMjc3MjI3Nzg5LDk3NzUxODExMF19
 -->
