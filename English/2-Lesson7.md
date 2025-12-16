@@ -63,11 +63,12 @@ Would you like some more ~?
 Please help yourself to ~.
 ~をご自由にお取りください
 
-finish enjoy stop mind giveup avoid
+finish, enjoy, stop, mind, give up, avoid
 
 a room　部屋
 room　空間
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDI0MDA1NCwyNDMxMDEwNzIsLTYwOT
-UzOTM2NSwtMjc3MjI3Nzg5LDk3NzUxODExMF19
+eyJoaXN0b3J5IjpbMTEwOTYyMDc1NCwtNTEwMjQwMDU0LDI0Mz
+EwMTA3MiwtNjA5NTM5MzY1LC0yNzcyMjc3ODksOTc3NTE4MTEw
+XX0=
 -->
