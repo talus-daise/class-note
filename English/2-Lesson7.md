@@ -70,15 +70,17 @@ room　空間
 
 ## 7-2
 ### Key Point 1
-1. I have seen that movie before.
-2. My parents have visited France twice.
-3. My dad has talked with that famous dancer.
+1. I **have seen** that movie before.
+2. My parents **have visited** France twice.
+3. My dad **has talked** with that famous dancer.
 
 ### Key Point 2
-4. My brother has never traveled by plane in his life.
-5. Have you ever traveled on a ship? --- Yes, I have. / No, I haven't()
+4. My brother **has never traveled** by plane in his life.
+5. **Have** you **ever traveled** on a ship? --- Yes, I have. / No, I haven't (No, never)
+6. How often have you been to Hawaii? --- I have been there four times.
+7. How many times have you traveled abroad? --- Only once.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjY0NDIyNDUsMTEwOTYyMDc1NCwtNT
+eyJoaXN0b3J5IjpbLTE1MDQzNDg1OTIsMTEwOTYyMDc1NCwtNT
 EwMjQwMDU0LDI0MzEwMTA3MiwtNjA5NTM5MzY1LC0yNzcyMjc3
 ODksOTc3NTE4MTEwXX0=
 -->
