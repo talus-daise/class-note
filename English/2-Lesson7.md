@@ -74,13 +74,21 @@ room　空間
 2. My parents **have visited** France twice.
 3. My dad **has talked** with that famous dancer.
 
+現在完了は経験を表すことがある。
+
+#### 頻度を表す副詞など
+|||
+|-|-|
+|haveのあとに置く|often
+|文末に置く     |
+
 ### Key Point 2
 4. My brother **has never traveled** by plane in his life.
 5. **Have** you **ever traveled** on a ship? --- Yes, I have. / No, I haven't (No, never)
-6. How often have you been to Hawaii? --- I have been there four times.
-7. How many times have you traveled abroad? --- Only once.
+6. **How often have** you **been** to Hawaii? --- I have been there four times.
+7. **How many times have** you **traveled** abroad? --- Only once.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQzNDg1OTIsMTEwOTYyMDc1NCwtNT
-EwMjQwMDU0LDI0MzEwMTA3MiwtNjA5NTM5MzY1LC0yNzcyMjc3
-ODksOTc3NTE4MTEwXX0=
+eyJoaXN0b3J5IjpbMTUzMzg1MTEyMywxMTA5NjIwNzU0LC01MT
+AyNDAwNTQsMjQzMTAxMDcyLC02MDk1MzkzNjUsLTI3NzIyNzc4
+OSw5Nzc1MTgxMTBdfQ==
 -->
