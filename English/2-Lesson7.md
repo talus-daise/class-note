@@ -79,8 +79,8 @@ room　空間
 #### 頻度を表す副詞など
 |||
 |-|-|
-|haveのあとに置く|often
-|文末に置く     |
+|haveのあとに置く|often, sometimes, neverなど
+|文末に置く     |before, once, twice, ~ times, several times, many timesなど
 
 ### Key Point 2
 4. My brother **has never traveled** by plane in his life.
@@ -88,7 +88,7 @@ room　空間
 6. **How often have** you **been** to Hawaii? --- I have been there four times.
 7. **How many times have** you **traveled** abroad? --- Only once.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzg1MTEyMywxMTA5NjIwNzU0LC01MT
+eyJoaXN0b3J5IjpbMTU4MTQzMjU0MiwxMTA5NjIwNzU0LC01MT
 AyNDAwNTQsMjQzMTAxMDcyLC02MDk1MzkzNjUsLTI3NzIyNzc4
 OSw5Nzc1MTgxMTBdfQ==
 -->
