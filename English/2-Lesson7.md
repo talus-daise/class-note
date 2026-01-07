@@ -67,8 +67,10 @@ finish, enjoy, stop, mind, give up, avoid
 
 a room　部屋
 room　空間
+
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTYyMDc1NCwtNTEwMjQwMDU0LDI0Mz
-EwMTA3MiwtNjA5NTM5MzY1LC0yNzcyMjc3ODksOTc3NTE4MTEw
-XX0=
+eyJoaXN0b3J5IjpbLTk5MzQzMzk3MCwxMTA5NjIwNzU0LC01MT
+AyNDAwNTQsMjQzMTAxMDcyLC02MDk1MzkzNjUsLTI3NzIyNzc4
+OSw5Nzc1MTgxMTBdfQ==
 -->
