@@ -141,9 +141,12 @@ stop to V
 Vするために立ち止まる
 stop ~ing
 ~するのをやめる
+
+I have just got some more garbase bags.
+私は何枚かのゴミ袋を追加で持ってきたところだ。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTIyNzQ3OCwtOTIyODAzNzUzLDg3NT
-M1OTQ5OSwxNTgxNDMyNTQyLDExMDk2MjA3NTQsLTUxMDI0MDA1
-NCwyNDMxMDEwNzIsLTYwOTUzOTM2NSwtMjc3MjI3Nzg5LDk3Nz
-UxODExMF19
+eyJoaXN0b3J5IjpbLTE1NjEzNTg4NjAsLTY3NTIyNzQ3OCwtOT
+IyODAzNzUzLDg3NTM1OTQ5OSwxNTgxNDMyNTQyLDExMDk2MjA3
+NTQsLTUxMDI0MDA1NCwyNDMxMDEwNzIsLTYwOTUzOTM2NSwtMj
+c3MjI3Nzg5LDk3NzUxODExMF19
 -->
