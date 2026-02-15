@@ -104,7 +104,11 @@ room　空間
 
 継続の期間を尋ねるときは、How long…? を使う。
 
-| for |||
+|| for | since|
+|-|-|-|
+|表すこと|期間を表す|起点からを表す|
+|日本語の例|3時間|今朝から|
+|英語| for three hours| since this morning|
 
 ## 7-4
 ### Key Point 1
@@ -116,8 +120,9 @@ room　空間
 現在完了進行形は、過去に始まった動作が現在まで続いていることを表す。
 ... have been ~ing ...
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTEyMzk2NjQsODc1MzU5NDk5LDE1OD
-E0MzI1NDIsMTEwOTYyMDc1NCwtNTEwMjQwMDU0LDI0MzEwMTA3
-MiwtNjA5NTM5MzY1LC0yNzcyMjc3ODksOTc3NTE4MTEwXX0=
+eyJoaXN0b3J5IjpbMTUyNjQwMjI5LDg3NTM1OTQ5OSwxNTgxND
+MyNTQyLDExMDk2MjA3NTQsLTUxMDI0MDA1NCwyNDMxMDEwNzIs
+LTYwOTUzOTM2NSwtMjc3MjI3Nzg5LDk3NzUxODExMF19
 -->
