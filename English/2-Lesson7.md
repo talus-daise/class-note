@@ -96,10 +96,13 @@ room　空間
 4. David hasn't seen hi sfriends in the US for a long time.
 5. Have you been busy since you came to Tokyo? --- Yes, I have. / No, I haven't.
 
+現在完了は
+
 ### Key Point 2
-6. How long have you lived in this 
+6. How long have you lived in this city? --- I have lived here for two years.
+7. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5NzY0NDA3LDE1ODE0MzI1NDIsMTEwOT
-YyMDc1NCwtNTEwMjQwMDU0LDI0MzEwMTA3MiwtNjA5NTM5MzY1
-LC0yNzcyMjc3ODksOTc3NTE4MTEwXX0=
+eyJoaXN0b3J5IjpbLTE0OTg1ODQ3MDAsMTU4MTQzMjU0MiwxMT
+A5NjIwNzU0LC01MTAyNDAwNTQsMjQzMTAxMDcyLC02MDk1Mzkz
+NjUsLTI3NzIyNzc4OSw5Nzc1MTgxMTBdfQ==
 -->
