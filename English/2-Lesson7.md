@@ -123,7 +123,6 @@ room　空間
 ... have been ~ing ...
 
 \<memo\>
-ベンナにしてる？
 京都についてサンフランシスコで話？
 日本の名所の写真
 ガレージの掃除
@@ -131,7 +130,7 @@ room　空間
 幸運を祈る！
 手伝うことある？
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTcxNTA2NSw4NzUzNTk0OTksMTU4MT
+eyJoaXN0b3J5IjpbLTkyMjgwMzc1Myw4NzUzNTk0OTksMTU4MT
 QzMjU0MiwxMTA5NjIwNzU0LC01MTAyNDAwNTQsMjQzMTAxMDcy
 LC02MDk1MzkzNjUsLTI3NzIyNzc4OSw5Nzc1MTgxMTBdfQ==
 -->
