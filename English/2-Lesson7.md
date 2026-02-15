@@ -104,6 +104,8 @@ room　空間
 
 継続の期間を尋ねるときは、How long…? を使う。
 
+| for |||
+
 ## 7-4
 ### Key Point 1
 1. I have been making a poster for the school festival this morning.
@@ -115,7 +117,7 @@ room　空間
 ... have been ~ing ...
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1MzU5NDk5LDE1ODE0MzI1NDIsMTEwOT
-YyMDc1NCwtNTEwMjQwMDU0LDI0MzEwMTA3MiwtNjA5NTM5MzY1
-LC0yNzcyMjc3ODksOTc3NTE4MTEwXX0=
+eyJoaXN0b3J5IjpbLTEyMTEyMzk2NjQsODc1MzU5NDk5LDE1OD
+E0MzI1NDIsMTEwOTYyMDc1NCwtNTEwMjQwMDU0LDI0MzEwMTA3
+MiwtNjA5NTM5MzY1LC0yNzcyMjc3ODksOTc3NTE4MTEwXX0=
 -->
