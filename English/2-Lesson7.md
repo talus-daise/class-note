@@ -105,9 +105,12 @@ room　空間
 継続の期間を尋ねるときは、How long…? を使う。
 
 ## 7-4
-### K
+### Key Point 1
+1. I have been making a poster for the school festival this morning.
+2. Ken ahs been surfing the Internet for an hour.
+3. Have you been studying during the break? --- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4NTE5MTAwLDE1ODE0MzI1NDIsMTEwOT
-YyMDc1NCwtNTEwMjQwMDU0LDI0MzEwMTA3MiwtNjA5NTM5MzY1
-LC0yNzcyMjc3ODksOTc3NTE4MTEwXX0=
+eyJoaXN0b3J5IjpbMTA5MTA3NTAyMiwxNTgxNDMyNTQyLDExMD
+k2MjA3NTQsLTUxMDI0MDA1NCwyNDMxMDEwNzIsLTYwOTUzOTM2
+NSwtMjc3MjI3Nzg5LDk3NzUxODExMF19
 -->
