@@ -87,8 +87,15 @@ room　空間
 5. **Have** you **ever traveled** on a ship? --- Yes, I have. / No, I haven't (No, never)
 6. **How often have** you **been** to Hawaii? --- I have been there four times.
 7. **How many times have** you **traveled** abroad? --- Only once.
+
+## 7-3
+### Key Point 1
+1. David has lived in Tokyo for two years.
+2. He and I have known each other since last year.
+3. We have been in the same class for six months.
+4. David hasn't seen hi sfriends
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTQzMjU0MiwxMTA5NjIwNzU0LC01MT
-AyNDAwNTQsMjQzMTAxMDcyLC02MDk1MzkzNjUsLTI3NzIyNzc4
-OSw5Nzc1MTgxMTBdfQ==
+eyJoaXN0b3J5IjpbMTU1OTE3NDIxMywxNTgxNDMyNTQyLDExMD
+k2MjA3NTQsLTUxMDI0MDA1NCwyNDMxMDEwNzIsLTYwOTUzOTM2
+NSwtMjc3MjI3Nzg5LDk3NzUxODExMF19
 -->
