@@ -130,9 +130,19 @@ room　空間
 幸運を祈る！
 手伝うことある？
 
-I have 
+I have to **finish cleaning** up the garage.
+- finish ~ing
+- stop ~ ing
+- give up ~ing
+- mind ~ing
+- practice ~ing
+
+stop to V
+Vするために立ち止まる
+stop ~ing
+~するのをやめる
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDI1NDI3MiwtOTIyODAzNzUzLDg3NT
+eyJoaXN0b3J5IjpbLTY3NTIyNzQ3OCwtOTIyODAzNzUzLDg3NT
 M1OTQ5OSwxNTgxNDMyNTQyLDExMDk2MjA3NTQsLTUxMDI0MDA1
 NCwyNDMxMDEwNzIsLTYwOTUzOTM2NSwtMjc3MjI3Nzg5LDk3Nz
 UxODExMF19
