@@ -93,9 +93,13 @@ room　空間
 1. David has lived in Tokyo for two years.
 2. He and I have known each other since last year.
 3. We have been in the same class for six months.
-4. David hasn't seen hi sfriends
+4. David hasn't seen hi sfriends in the US for a long time.
+5. Have you been busy since you came to Tokyo? --- Yes, I have. / No, I haven't.
+
+### Key Point 2
+6. How long have you lived in this 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTE3NDIxMywxNTgxNDMyNTQyLDExMD
-k2MjA3NTQsLTUxMDI0MDA1NCwyNDMxMDEwNzIsLTYwOTUzOTM2
-NSwtMjc3MjI3Nzg5LDk3NzUxODExMF19
+eyJoaXN0b3J5IjpbNTA5NzY0NDA3LDE1ODE0MzI1NDIsMTEwOT
+YyMDc1NCwtNTEwMjQwMDU0LDI0MzEwMTA3MiwtNjA5NTM5MzY1
+LC0yNzcyMjc3ODksOTc3NTE4MTEwXX0=
 -->
