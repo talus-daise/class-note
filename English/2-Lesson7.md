@@ -123,9 +123,15 @@ room　空間
 ... have been ~ing ...
 
 \<memo\>
-
+ベンナにしてる？
+京都についてサンフランシスコで話？
+日本の名所の写真
+ガレージの掃除
+今朝から
+幸運を祈る！
+手伝うことある？
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjE5NTkyMjYsODc1MzU5NDk5LDE1OD
-E0MzI1NDIsMTEwOTYyMDc1NCwtNTEwMjQwMDU0LDI0MzEwMTA3
-MiwtNjA5NTM5MzY1LC0yNzcyMjc3ODksOTc3NTE4MTEwXX0=
+eyJoaXN0b3J5IjpbLTc4MTcxNTA2NSw4NzUzNTk0OTksMTU4MT
+QzMjU0MiwxMTA5NjIwNzU0LC01MTAyNDAwNTQsMjQzMTAxMDcy
+LC02MDk1MzkzNjUsLTI3NzIyNzc4OSw5Nzc1MTgxMTBdfQ==
 -->
