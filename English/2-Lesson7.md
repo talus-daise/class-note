@@ -108,9 +108,14 @@ room　空間
 ### Key Point 1
 1. I have been making a poster for the school festival this morning.
 2. Ken ahs been surfing the Internet for an hour.
-3. Have you been studying during the break? --- 
+3. Have you been studying during the break? --- Yes, I have. / No, I haven't.
+4. How long have you been waiting for your teacher? --- For about forty minutes.
+
+現在完了進行形は、過去に始まった動作が現在まで続いていることを表す。
+... have been ~ing ...
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTA3NTAyMiwxNTgxNDMyNTQyLDExMD
-k2MjA3NTQsLTUxMDI0MDA1NCwyNDMxMDEwNzIsLTYwOTUzOTM2
-NSwtMjc3MjI3Nzg5LDk3NzUxODExMF19
+eyJoaXN0b3J5IjpbODc1MzU5NDk5LDE1ODE0MzI1NDIsMTEwOT
+YyMDc1NCwtNTEwMjQwMDU0LDI0MzEwMTA3MiwtNjA5NTM5MzY1
+LC0yNzcyMjc3ODksOTc3NTE4MTEwXX0=
 -->
