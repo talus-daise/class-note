@@ -110,6 +110,8 @@ room　空間
 |日本語の例|3時間|今朝から|
 |英語| for three hours| since this morning|
 
+~ ago, yesterday, last ~, whenなどは過去の一点を表すため、現在完了形では用いることができない。
+
 ## 7-4
 ### Key Point 1
 1. I have been making a poster for the school festival this morning.
@@ -120,9 +122,10 @@ room　空間
 現在完了進行形は、過去に始まった動作が現在まで続いていることを表す。
 ... have been ~ing ...
 
+\<memo\>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjQwMjI5LDg3NTM1OTQ5OSwxNTgxND
-MyNTQyLDExMDk2MjA3NTQsLTUxMDI0MDA1NCwyNDMxMDEwNzIs
-LTYwOTUzOTM2NSwtMjc3MjI3Nzg5LDk3NzUxODExMF19
+eyJoaXN0b3J5IjpbLTEzNjE5NTkyMjYsODc1MzU5NDk5LDE1OD
+E0MzI1NDIsMTEwOTYyMDc1NCwtNTEwMjQwMDU0LDI0MzEwMTA3
+MiwtNjA5NTM5MzY1LC0yNzcyMjc3ODksOTc3NTE4MTEwXX0=
 -->
