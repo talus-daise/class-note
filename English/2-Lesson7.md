@@ -154,9 +154,19 @@ I have just got some more garbase bags.
 |be interested in ~|〜に興味がある|
 |take a look at ~|〜を見る
 |amount| 量|
-|a lar
+|a large amount of ~|大量の〜
+|more than ~|〜より多い
+|such as|
+|rest
+|try to ~|
+|continue to ~|
+|avoid ~ing|
+|because S V|
+|because of ~
+|little by little|
+|be aware of ~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0MzI1NzE4LC0xNzc0MTEyMjE0LC0xNz
+eyJoaXN0b3J5IjpbNTE1ODg4Njg4LC0xNzc0MTEyMjE0LC0xNz
 c0MTEyMjE0LC0xNTYxMzU4ODYwLC02NzUyMjc0NzgsLTkyMjgw
 Mzc1Myw4NzUzNTk0OTksMTU4MTQzMjU0MiwxMTA5NjIwNzU0LC
 01MTAyNDAwNTQsMjQzMTAxMDcyLC02MDk1MzkzNjUsLTI3NzIy
