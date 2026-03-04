@@ -147,11 +147,18 @@ I have just got some more garbase bags.
 
 ## Read
 
-
+|表現|意味|
+|-|-|
+|would like to ~|〜したい
+|talk about ~|〜について話す
+|be interested in ~|〜に興味がある|
+|take a look at ~|〜を見る
+|amount| 量|
+|a lar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQxMTIyMTQsLTE3NzQxMTIyMTQsLT
-E1NjEzNTg4NjAsLTY3NTIyNzQ3OCwtOTIyODAzNzUzLDg3NTM1
-OTQ5OSwxNTgxNDMyNTQyLDExMDk2MjA3NTQsLTUxMDI0MDA1NC
-wyNDMxMDEwNzIsLTYwOTUzOTM2NSwtMjc3MjI3Nzg5LDk3NzUx
-ODExMF19
+eyJoaXN0b3J5IjpbNzE0MzI1NzE4LC0xNzc0MTEyMjE0LC0xNz
+c0MTEyMjE0LC0xNTYxMzU4ODYwLC02NzUyMjc0NzgsLTkyMjgw
+Mzc1Myw4NzUzNTk0OTksMTU4MTQzMjU0MiwxMTA5NjIwNzU0LC
+01MTAyNDAwNTQsMjQzMTAxMDcyLC02MDk1MzkzNjUsLTI3NzIy
+Nzc4OSw5Nzc1MTgxMTBdfQ==
 -->
