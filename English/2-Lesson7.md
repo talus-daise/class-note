@@ -170,12 +170,12 @@ I have just got some more garbase bags.
 |stop to ~|〜するために止まる
 |stop ~ing|〜するのを止める
 |by ~ing|〜によって
-|provide A to B|
-|at any time|
-|help (to) ~|
-|lead to ~|
+|provide A to B|AをBに提出する
+|at any time|いつでも
+|help (to) ~|〜するのをたすける
+|lead to ~|〜につながる
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5MTAzMjY0LC0xNzc0MTEyMjE0LC0xNz
+eyJoaXN0b3J5IjpbODc4MDA4ODI1LC0xNzc0MTEyMjE0LC0xNz
 c0MTEyMjE0LC0xNTYxMzU4ODYwLC02NzUyMjc0NzgsLTkyMjgw
 Mzc1Myw4NzUzNTk0OTksMTU4MTQzMjU0MiwxMTA5NjIwNzU0LC
 01MTAyNDAwNTQsMjQzMTAxMDcyLC02MDk1MzkzNjUsLTI3NzIy
