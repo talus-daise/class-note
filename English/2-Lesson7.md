@@ -164,8 +164,7 @@ I have just got some more garbase bags.
 |because S V|なぜならSがVだから
 |because of ~|なぜなら〜だから
 |little by little|少しずつ
-|be aware of ~|〜を意識する
-|became aware of ~|〜に気づく
+|be(become) aware of ~|〜を意識する〜に気づく
 |in order to ~|〜するために
 |stop to ~|〜するために止まる
 |stop ~ing|〜するのを止める
@@ -173,11 +172,11 @@ I have just got some more garbase bags.
 |provide A to B|AをBに提出する
 |at any time|いつでも
 |help (to) ~|〜するのをたすける
-|lead to ~|〜につながる
+|lead to ~|〜につながる　
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4MDA4ODI1LC0xNzc0MTEyMjE0LC0xNz
-c0MTEyMjE0LC0xNTYxMzU4ODYwLC02NzUyMjc0NzgsLTkyMjgw
-Mzc1Myw4NzUzNTk0OTksMTU4MTQzMjU0MiwxMTA5NjIwNzU0LC
-01MTAyNDAwNTQsMjQzMTAxMDcyLC02MDk1MzkzNjUsLTI3NzIy
-Nzc4OSw5Nzc1MTgxMTBdfQ==
+eyJoaXN0b3J5IjpbMTY4NjE4OTQ3Nyw4NzgwMDg4MjUsLTE3Nz
+QxMTIyMTQsLTE3NzQxMTIyMTQsLTE1NjEzNTg4NjAsLTY3NTIy
+NzQ3OCwtOTIyODAzNzUzLDg3NTM1OTQ5OSwxNTgxNDMyNTQyLD
+ExMDk2MjA3NTQsLTUxMDI0MDA1NCwyNDMxMDEwNzIsLTYwOTUz
+OTM2NSwtMjc3MjI3Nzg5LDk3NzUxODExMF19
 -->
