@@ -156,17 +156,26 @@ I have just got some more garbase bags.
 |amount| 量|
 |a large amount of ~|大量の〜
 |more than ~|〜より多い
-|such as|
-|rest
+|such as|具体例
+|rest|急速、
 |try to ~|
 |continue to ~|
 |avoid ~ing|
 |because S V|
 |because of ~
 |little by little|
-|be aware of ~
+|be aware of ~|
+|became aware of ~|
+|in order to ~|
+|stop to ~|
+|stop ~ing|
+|by ~ing|
+|provide A to B|
+|at any time|
+|help (to) ~|
+|lead to ~|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1ODg4Njg4LC0xNzc0MTEyMjE0LC0xNz
+eyJoaXN0b3J5IjpbNzc4MzMyNTY5LC0xNzc0MTEyMjE0LC0xNz
 c0MTEyMjE0LC0xNTYxMzU4ODYwLC02NzUyMjc0NzgsLTkyMjgw
 Mzc1Myw4NzUzNTk0OTksMTU4MTQzMjU0MiwxMTA5NjIwNzU0LC
 01MTAyNDAwNTQsMjQzMTAxMDcyLC02MDk1MzkzNjUsLTI3NzIy
