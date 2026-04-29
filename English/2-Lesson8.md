@@ -11,7 +11,9 @@ honesty 名詞
 すいーとちりそうすいいね
 えびちりつくろう
 エビ食べれる
-
+もちろん
+いえにさそうよ
+Eじこしょうかいするよ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODc3MzY0NCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTU4NjUxODIzLC0yMDg4NzQ2NjEyXX0=
 -->
