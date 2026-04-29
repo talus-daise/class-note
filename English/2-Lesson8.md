@@ -13,7 +13,7 @@ honesty 名詞
 エビ食べれる
 もちろん
 いえにさそうよ
-Eじこしょうかいするよ
+じこしょうかいするよ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjUxODIzLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNTk4MjE1NzA2LC0yMDg4NzQ2NjEyXX0=
 -->
