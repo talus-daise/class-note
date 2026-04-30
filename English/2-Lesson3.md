@@ -180,7 +180,8 @@ by Monday
 
 ごめんなさいというまで怒る
 angry until they said sorry
-継続して〜するまで
+継続して〜するまで１
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTkxMTAxMSwtMTcxNzU4NTE2M119
+eyJoaXN0b3J5IjpbNDIwMDk3NjMyLDE4Mjk5MTEwMTEsLTE3MT
+c1ODUxNjNdfQ==
 -->
