@@ -5,7 +5,11 @@
 
 ## 9-1
 
-
+1. I need a new phone because I lost my **old** one.
+2. When I took my dog for a walk yesterday, nothing strange happened.
+3. Have you ever been to the restaurant **on 47th Street?**
+4. We are looking for a good restaurant **to recommend to our friends.**
+5. James has the ability to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDYxNTg4MCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTk1MDI4MDA0MCwtMjA4ODc0NjYxMl19
 -->
